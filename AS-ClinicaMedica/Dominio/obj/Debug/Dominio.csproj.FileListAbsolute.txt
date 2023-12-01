@@ -1,0 +1,10 @@
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\bin\Debug\Dominio.dll
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\bin\Debug\Dominio.pdb
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\obj\Debug\Dominio.dll
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\obj\Debug\Dominio.pdb
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\bin\Debug\BouncyCastle.Crypto.dll
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\bin\Debug\itextsharp.dll
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\bin\Debug\itextsharp.xml
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Dominio\obj\Debug\Dominio.csproj.CopyComplete

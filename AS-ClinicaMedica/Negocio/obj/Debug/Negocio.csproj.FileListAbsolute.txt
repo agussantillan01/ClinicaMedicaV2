@@ -1,0 +1,12 @@
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\bin\Debug\Negocio.dll
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\bin\Debug\Negocio.pdb
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\bin\Debug\Dominio.dll
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\bin\Debug\Dominio.pdb
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\obj\Debug\Negocio.dll
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\obj\Debug\Negocio.pdb
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\bin\Debug\itextsharp.dll
+C:\AS-ClinicaMedica\AS-ClinicaMedica\Negocio\bin\Debug\itextsharp.xml
